@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/mayankmmmx/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/mayankmmmx/Desktop/Sandbox/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-21.0.3_af35c160867df09f12c9fcc8c331b0ac3af255e5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/mayankmmmx/Desktop/Sandbox/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="607a4472802b2cb29d74df9d1744b728d7020682">
+        <dex dex="/Users/mayankmmmx/Desktop/Sandbox/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_469afec350533fccdb4ddf5f927bc3b18e12dab9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/mayankmmmx/Desktop/Sandbox/app/libs/libmuseandroid.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b7a1ebe2d998c58d6ce2157fa29ef6df6fbdd38">
+        <dex dex="/Users/mayankmmmx/Desktop/Sandbox/app/build/intermediates/transforms/dex/debug/folders/1000/2/libmuseandroid_d995a1418c2ff263bce97d2ff64a1224479e3185/classes.dex" />
+    </item>
+    <item
+        jar="/Users/mayankmmmx/Desktop/Sandbox/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/mayankmmmx/Desktop/Sandbox/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-21.0.3_37c179fa53422112b9270c54b15c1d095a255d94/classes.dex" />
+    </item>
+    <item
+        jar="/Users/mayankmmmx/Desktop/Sandbox/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/mayankmmmx/Desktop/Sandbox/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-21.0.3_97b5c353e334cfdc8a7592f506cd123a1774eb87/classes.dex" />
+    </item>
+    <item
+        jar="/Users/mayankmmmx/Desktop/Sandbox/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fe874b555f7ea646db9ac3191d329e028b552c82">
+        <dex dex="/Users/mayankmmmx/Desktop/Sandbox/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e8f623225081c61ce4cb8aebc0a7eb130cad4053/classes.dex" />
+    </item>
+
+</items>
