@@ -8,9 +8,9 @@ int id = 2;
 void flash(int period, int pin)
 {
 	digitalWrite(pin, HIGH);
-	delay(pin/2);
+	delay(period/2);
 	digitalWrite(pin, LOW);
-	delay(pin/2);
+	delay(period/2);
 }
 
 void setup()
@@ -52,5 +52,5 @@ void in(int byteIn)
 		}
 	}
 	else
-	delay(12000);
+		delay(12000);
 }
